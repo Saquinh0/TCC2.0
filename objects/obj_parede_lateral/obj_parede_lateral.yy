@@ -30,9 +30,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_parede_superiores_e_inferiores",
-    "path":"sprites/spr_parede_superiores_e_inferiores/spr_parede_superiores_e_inferiores.yy",
+    "name":"spr_parede_lateral",
+    "path":"sprites/spr_parede_lateral/spr_parede_lateral.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_parde_do_canto_inferior_esq",
+    "path":"sprites/spr_parde_do_canto_inferior_esq/spr_parde_do_canto_inferior_esq.yy",
+  },
   "visible":true,
 }
