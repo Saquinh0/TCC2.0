@@ -7,17 +7,17 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_61EB3847","path":"rooms/Escola/Escola.yy",},
-    {"name":"inst_CF8B892","path":"rooms/Escola/Escola.yy",},
     {"name":"inst_49560628","path":"rooms/Escola/Escola.yy",},
     {"name":"inst_20778315","path":"rooms/Escola/Escola.yy",},
     {"name":"inst_4D1CE9B4","path":"rooms/Escola/Escola.yy",},
     {"name":"inst_10C6C0D0","path":"rooms/Escola/Escola.yy",},
+    {"name":"inst_6EEEEEE7","path":"rooms/Escola/Escola.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"player_professor","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_CF8B892","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_CF8B892","objectId":{"name":"obj_player_na_escola","path":"objects/obj_player_na_escola/obj_player_na_escola.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":8.625,"scaleY":8.95,"x":715.0,"y":594.0,},
         {"$GMRInstance":"v4","%Name":"inst_49560628","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_49560628","objectId":{"name":"obj_professor","path":"objects/obj_professor/obj_professor.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":8.625,"scaleY":8.95,"x":715.0,"y":294.5,},
+        {"$GMRInstance":"v4","%Name":"inst_6EEEEEE7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6EEEEEE7","objectId":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":9.0,"scaleY":9.0,"x":704.0,"y":544.0,},
       ],"layers":[],"name":"player_professor","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_61EB3847","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_61EB3847","objectId":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":21.34375,"scaleY":4.597381,"x":0.0,"y":0.0,},
