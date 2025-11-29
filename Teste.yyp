@@ -54,7 +54,7 @@
     {"id":{"name":"obj_parede_superior_inferior","path":"objects/obj_parede_superior_inferior/obj_parede_superior_inferior.yy",},},
     {"id":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
-    {"id":{"name":"obj_professor","path":"objects/obj_professor/obj_professor.yy",},},
+    {"id":{"name":"obj_professor_daibo","path":"objects/obj_professor_daibo/obj_professor_daibo.yy",},},
     {"id":{"name":"obj_quadro","path":"objects/obj_quadro/obj_quadro.yy",},},
     {"id":{"name":"obj_Rua","path":"objects/obj_Rua/obj_Rua.yy",},},
     {"id":{"name":"obj_superior_dir","path":"objects/obj_superior_dir/obj_superior_dir.yy",},},
