@@ -16,3 +16,4 @@ sprites[1][3] = spr_player_andando_esq
 
 Andando = 0
 lado = 0
+

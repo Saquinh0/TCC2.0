@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Professor",
-    "path":"sprites/Professor/Professor.yy",
+    "name":"spr_professor",
+    "path":"sprites/spr_professor/spr_professor.yy",
   },
   "spriteMaskId":null,
   "visible":true,

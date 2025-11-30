@@ -1,20 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_tapete_cantos",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Object25",
+  "eventList":[],
   "managed":true,
-  "name":"obj_tapete_cantos",
+  "name":"Object25",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
     "path":"folders/Objetos.yy",
   },
-  "parentObjectId":{
-    "name":"obj_par_npc",
-    "path":"objects/obj_par_npc/obj_par_npc.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Tapete_canto",
-    "path":"sprites/Tapete_canto/Tapete_canto.yy",
+    "name":"spr_Coberta",
+    "path":"sprites/spr_Coberta/spr_Coberta.yy",
   },
   "spriteMaskId":null,
   "visible":true,

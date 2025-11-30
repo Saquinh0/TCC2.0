@@ -61,3 +61,33 @@ if(_baixo) lado = 0
 if(_cima) lado = 1
 
 sprite_index = sprites[Andando][lado]
+
+//DIAVOLO
+nome = "Adalberto";
+global.Dialogo = false;
+// Verifica se NÃO há diálogo ativo
+if (!global.Dialogo) {
+
+    // Só inicia se o jogador apertar F
+    if (keyboard_check_pressed(ord("F"))) {
+
+        // Procura o NPC mais próximo
+        var _npc = instance_nearest(x, y, obj_par_npc);
+
+        if (_npc != noone) {
+
+            var d = point_distance(x, y, _npc.x, _npc.y);
+
+            // Verifica distância
+            if (d <= 999) {
+
+                global.Dialogo = true;
+
+                var _dialogo = instance_create_layer(_npc.x, _npc.y - 10, "dialogo", obj_dialogo);
+
+                _dialogo.npc_nome = _npc.nome;
+
+            }
+        }
+    }
+}
