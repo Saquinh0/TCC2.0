@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"Tapete",
   "bboxMode":2,
   "bbox_bottom":63,
@@ -12,11 +12,11 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"3f13fe24-1a02-472c-b0c7-d32c0225f677","name":"3f13fe24-1a02-472c-b0c7-d32c0225f677","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"3f13fe24-1a02-472c-b0c7-d32c0225f677","name":"3f13fe24-1a02-472c-b0c7-d32c0225f677","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":198,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"7a419096-a812-4ebf-8e67-02ca2c5db30d","blendMode":0,"displayName":"default","isLocked":false,"name":"7a419096-a812-4ebf-8e67-02ca2c5db30d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -63,8 +63,8 @@
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
-    "seqHeight":64.0,
-    "seqWidth":64.0,
+    "seqHeight":198.0,
+    "seqWidth":198.0,
     "showBackdrop":true,
     "showBackdropImage":false,
     "timeUnits":1,
@@ -88,5 +88,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":198,
 }

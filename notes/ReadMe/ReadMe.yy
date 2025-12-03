@@ -1,8 +1,7 @@
 {
-  "$GMNotes":"v1",
+  "$GMNotes":"",
   "%Name":"ReadMe",
   "name":"ReadMe",
-  "openedOnFirstLoad":true,
   "parent":{
     "name":"Teste",
     "path":"Teste.yyp",
