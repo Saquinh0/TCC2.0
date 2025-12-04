@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Teste",
-    "path":"Teste.yyp",
+    "name":"TCC2.0",
+    "path":"TCC2.0.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
