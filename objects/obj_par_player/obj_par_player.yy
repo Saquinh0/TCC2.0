@@ -1,20 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_mae",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_par_player",
+  "eventList":[],
   "managed":true,
-  "name":"obj_mae",
+  "name":"obj_par_player",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Falas",
+    "path":"folders/Objetos/Falas.yy",
   },
-  "parentObjectId":{
-    "name":"obj_par_npc",
-    "path":"objects/obj_par_npc/obj_par_npc.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,11 +26,8 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
-  "spriteId":{
-    "name":"spr_mae",
-    "path":"sprites/spr_mae/spr_mae.yy",
-  },
+  "solid":false,
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

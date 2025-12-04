@@ -55,7 +55,11 @@
     {"id":{"name":"obj_inferior_dir","path":"objects/obj_inferior_dir/obj_inferior_dir.yy",},},
     {"id":{"name":"obj_inferior_esq","path":"objects/obj_inferior_esq/obj_inferior_esq.yy",},},
     {"id":{"name":"obj_listras_rua","path":"objects/obj_listras_rua/obj_listras_rua.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"Obj_Mae","path":"objects/Obj_Mae/Obj_Mae.yy",},},
+=======
+    {"id":{"name":"obj_mae","path":"objects/obj_mae/obj_mae.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},},
     {"id":{"name":"obj_par_npc","path":"objects/obj_par_npc/obj_par_npc.yy",},},
     {"id":{"name":"obj_parede_lateral","path":"objects/obj_parede_lateral/obj_parede_lateral.yy",},},
@@ -116,8 +120,11 @@
     {"id":{"name":"spr_tp_quarto","path":"sprites/spr_tp_quarto/spr_tp_quarto.yy",},},
     {"id":{"name":"Sprite34","path":"sprites/Sprite34/Sprite34.yy",},},
     {"id":{"name":"Sprite35","path":"sprites/Sprite35/Sprite35.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"Sprite36","path":"sprites/Sprite36/Sprite36.yy",},},
     {"id":{"name":"Tapete_canto","path":"sprites/Tapete_canto/Tapete_canto.yy",},},
+=======
+>>>>>>> Stashed changes
     {"id":{"name":"Tapete","path":"sprites/Tapete/Tapete.yy",},},
   ],
   "resourceType":"GMProject",

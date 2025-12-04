@@ -32,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Tapete_canto",
-    "path":"sprites/Tapete_canto/Tapete_canto.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

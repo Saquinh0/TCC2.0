@@ -1,20 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_mae",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_player_na_escola",
+  "eventList":[],
   "managed":true,
-  "name":"obj_mae",
+  "name":"obj_player_na_escola",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
     "path":"folders/Objetos.yy",
   },
-  "parentObjectId":{
-    "name":"obj_par_npc",
-    "path":"objects/obj_par_npc/obj_par_npc.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_mae",
-    "path":"sprites/spr_mae/spr_mae.yy",
+    "name":"spr_player_parado_cima",
+    "path":"sprites/spr_player_parado_cima/spr_player_parado_cima.yy",
   },
   "spriteMaskId":null,
   "visible":true,

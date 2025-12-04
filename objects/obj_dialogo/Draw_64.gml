@@ -25,6 +25,6 @@ if inicializar_dialogo == true{
     draw_text(_guil - 216 - _stgw, _yy - 32, texto_grid[# Infos.Nome, pagina]);
     draw_text_ext(_xx + 30, _yy + 30, texto_grid[# Infos.Texto, pagina], 32, _guil - 264);
 
-    draw_sprite_ext(_sprite, 0, _guil - 100, _guia, -3, 3, 0, c_white, 1);
+    draw_sprite_ext(_sprite, 0, _guil - 100, _guia, -3, 3, 0, c_white, 2);
  }
 }
