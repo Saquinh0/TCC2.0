@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_mae",
   "bboxMode":0,
   "bbox_bottom":19,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"f2305a7a-34b2-43cd-acd1-86faa779fdf2","name":"f2305a7a-34b2-43cd-acd1-86faa779fdf2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f2305a7a-34b2-43cd-acd1-86faa779fdf2","name":"f2305a7a-34b2-43cd-acd1-86faa779fdf2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -23,7 +23,7 @@
   ],
   "name":"spr_mae",
   "nineSlice":null,
-  "origin":0,
+  "origin":7,
   "parent":{
     "name":"Sprites",
     "path":"folders/Sprites.yy",
@@ -77,8 +77,8 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":8,
+    "yorigin":20,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

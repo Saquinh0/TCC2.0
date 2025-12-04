@@ -2,12 +2,19 @@ function scr_textos(){
 	switch npc_nome{
 		case "professor":
 		ds_grid_add_text("Então Adalberto como você sabe hoje é o dia da prova final, se vc não atingir os pontos necessários você reprova.", spr_professor, 1, "Professor");
+		ds_grid_add_text("Nossa, você parece meio pálido, você está bem?", spr_professor, 1, "Professor");
 		
 		break;
 		case "tapete":
 		ds_grid_add_text("Hoje é o dia da prova final estou muito nervoso", spr_player_parado_baixo, 0, "Adalberto");
 		
 		break
+		
+		case "Mãe":
+		ds_grid_add_text("Ai ai, eu sou a mãe", spr_mae, 1, "Mãe");
+		ds_grid_add_text("Mãe, estou muito nervoso", spr_player_parado_baixo, 0, "Adalberto");
+		
+		break;
 	}
 }
 

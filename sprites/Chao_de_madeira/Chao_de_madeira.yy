@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Chao_de_madeira",
   "bboxMode":0,
   "bbox_bottom":319,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"10c34cd2-99e5-4b99-9bcd-5c4dcd66cafa","name":"10c34cd2-99e5-4b99-9bcd-5c4dcd66cafa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"10c34cd2-99e5-4b99-9bcd-5c4dcd66cafa","name":"10c34cd2-99e5-4b99-9bcd-5c4dcd66cafa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

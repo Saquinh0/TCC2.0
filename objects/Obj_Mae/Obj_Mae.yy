@@ -1,15 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"Object30",
-  "eventList":[],
+  "%Name":"Obj_Mae",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object30",
+  "name":"Obj_Mae",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
     "path":"folders/Objetos.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_par_npc",
+    "path":"objects/obj_par_npc/obj_par_npc.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

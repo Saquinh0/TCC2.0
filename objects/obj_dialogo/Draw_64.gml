@@ -1,17 +1,3 @@
-if inicializar_dialogo == false{
-    scr_textos();
-    inicializar_dialogo = true;
-}
-
-if keyboard_check_pressed(vk_enter){
-    if pagina < ds_grid_height(texto_grid) - 1{
-        pagina++;
-    }
-    else{
-        global.Dialogo = false;
-        instance_destroy(obj_dialogo);
-    }
-}
 if inicializar_dialogo == true{
  var _guil = display_get_gui_width();
  var _guia = display_get_gui_height();
